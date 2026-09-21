@@ -9,19 +9,18 @@ Cloud Solution Architect building around **Azure, AI Agents, DevOps & Automation
 🚀 Building weird things that occasionally become useful.
 
 ## Currently exploring
-
 <p align="left">
-  <img src="https://img.shields.io/badge0AI-FF6B6B?style=for-the-badge
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&softazure&logoColor=white
-  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?the-badge&logo=microsoft&logoColor=white
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot=white
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badgeaform&logoColor=white
-  <img src="https://img.shields.io/badge/Bicep-0078D4?styleadge
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-theo=kubernetes&logoColor=white
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?styleadge&logo=githubactions&logoColor=white
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&white
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&r&logoColor=white
-  <img src="https://img.shields.io/badge/6AB?style=for-the-badge&logo=python&logoColor=white
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge" alt="Bicep" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
 ### Things I like building
