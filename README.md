@@ -11,10 +11,10 @@ Cloud Solution Architect building around **Azure, AI Agents, DevOps & Automation
 ## Currently exploring
 
 https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge
-![tps://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-![tps://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
+https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
 https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
-![Kubernetesshields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
 https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
 
 ### Things I like building
