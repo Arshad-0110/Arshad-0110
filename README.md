@@ -1,28 +1,30 @@
 # Hey, I'm Arshad 👋
 
-I spend most of my time building AI-powered things that probably didn't need AI in the first place... but are cooler because of it.
+Cloud Solution Architect building around **Azure, AI Agents, DevOps & Automation**.
 
-🤖 Building AI agents so I can be lazy more efficiently.
+🤖 Building agents to automate things I don't want to do twice.  
+☁️ Turning infrastructure into code.  
+⚙️ Breaking CI/CD pipelines and then pretending it was a learning exercise.  
+🧠 Experimenting with AI systems that can reason, retrieve knowledge, and take action.  
+🚀 Building weird things that occasionally become useful.
 
-🎮 Gamer by night, AI builder by curiosity.
+## Currently exploring
 
-🤖 Teaching computers to remember things so I don't have to.
+https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge
+![tps://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+![tps://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
+https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
+![Kubernetesshields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
 
-⚡ Building weird, useful things with AI.
+### Things I like building
 
-Currently exploring:
+`AI Agents` · `Cloud Infrastructure` · `IaC` · `DevOps` · `Automation` · `RAG` · `Developer Tools`
 
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-742774?style=for-the-badge)
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-00C853?style=for-the-badge)
+### 🎮 AFK
 
-🎮 Outside work:
-- Gaming
-- Anime
-- Exploring new tech
-- Breaking things and figuring out why they broke
+Gaming · Anime · Side Projects · Exploring new tech
 
-Current mission:
-> Become the guy who says "I built a agent for that."
+### 🎯 Current mission
+
+> **"There's probably an agent for that. If not, I'll build one."**
